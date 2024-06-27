@@ -8,3 +8,6 @@ Interest           |  []()  Deskripsi
 `original tester`        | Get real testers with a claim feature where testers have installed your app
 `contact the member list`        | Users can contact users via Gmail  
 `update/delete`        | Users can change and delete your own applications  
+
+# Download 
+Download the latest version of the 20 Testers Closed Google Play Console application here
