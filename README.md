@@ -11,3 +11,7 @@ Interest           |  []()  Deskripsi
 
 # Download 
 Download the latest version of the 20 Testers Closed Google Play Console application here
+
+[20 testers Closed V.10](kominfo.web.id/wp-content/uploads/20-Testers-Closed.apk)
+
+**NOTE:** if you have installed the old version on google play store please uninstall the old version and install this above version
