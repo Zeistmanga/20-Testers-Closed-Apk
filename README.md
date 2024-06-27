@@ -18,6 +18,7 @@ Download the latest version of the 20 Testers Closed Google Play Console applica
 
 # Preview 
 ![](https://play-lh.googleusercontent.com/bAQb_oAkVgGX0fa9EAa_2TJP8LNzkiNLUW-xWcCf_Qi1N2LmoXGXdZcgbozFohPmwDI=w240-h480-rw)
+
 ![](https://play-lh.googleusercontent.com/tpHMtAG3wYre2ruGZtApT_mr4lNlCF9R9oHl1D21YRakjVAsFfQ1Cv5n00brCHk6KX8=w1052-h592-rw)
 ![](https://play-lh.googleusercontent.com/eXoqPViSBViiRma24N_aJUpQ3fHZmFojTOQeAu2xX9dhqC3hk1OSb4nyB0BLXabmDwo=w1052-h592-rw)
-![](https://play-lh.googleusercontent.com/pKBdrkzoGUmZqbNl9Xtw74h6wdAakTaSUbexQSchstR7X4xbAChg5SWjn7OYib_uMSU9=w5120-h2880-rw)
+![](https://play-lh.googleusercontent.com/pKBdrkzoGUmZqbNl9Xtw74h6wdAakTaSUbexQSchstR7X4xbAChg5SWjn7OYib_uMSU9=w1052-h592-rw)
